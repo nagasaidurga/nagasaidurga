@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Sai Ambati
 
-<!--
-**nagasaidurga/nagasaidurga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Mobile Developer (Android + Flutter)  
+💻 6+ Years Kotlin | 5+ Years Flutter | 12+ Years Mobile Development  
+📱 Building scalable apps with Kotlin, Java, Dart & Flutter  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Android: Kotlin, Java, Jetpack Compose, MVVM, Coroutines
+- Flutter: Dart, Bloc, Provider, Clean Architecture
+- Backend Basics: Firebase, REST APIs
+- Tools: Git, CI/CD, Android Studio, VS Code
+
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [https://linkedin.com/in/nagasaidurga](https://www.linkedin.com/in/naga-sai-durga-ambati/)
+- Email: nagasaidurga.502@gmail.com
+
+
+## 🌐 Website
+- https://saidurga-mobile-dev.web.app/
+
+## ✨ Tech Blogs
+- [Extensions and Infix Notations in Kotlin](https://nagasaidurga-502.medium.com/extensions-and-infix-notations-in-kotlin-44f51c2d6c57)
+- [Singleton Design Practices](https://nagasaidurga-502.medium.com/singleton-design-practices-1c36953fab09)
+- [Journey with Flutter](https://nagasaidurga-502.medium.com/journey-with-flutter-69ebca3a8619)
+
