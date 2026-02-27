@@ -6,12 +6,6 @@
 
 ---
 
-## 🔧 Tech Stack
-- Android: Kotlin, Java, Jetpack Compose, MVVM, Coroutines
-- Flutter: Dart, Bloc, Provider, Clean Architecture
-- Backend Basics: Firebase, REST APIs
-- Tools: Git, CI/CD, Android Studio, VS Code
-
 ## 🧰 Tech Stack
 
 ### 📱 Mobile
@@ -28,6 +22,9 @@
 ![Gemini](https://img.shields.io/badge/Gemini-green)
 
 ---
+
+## 🔧 Tools
+-  Git, CI/CD, Android Studio, VS Code, Fastlane, Docker
 
 ## 📫 Contact Me
 - LinkedIn: [https://linkedin.com/in/nagasaidurga](https://www.linkedin.com/in/naga-sai-durga-ambati/)
