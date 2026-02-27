@@ -12,6 +12,20 @@
 - Backend Basics: Firebase, REST APIs
 - Tools: Git, CI/CD, Android Studio, VS Code
 
+## 🧰 Tech Stack
+
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-Kotlin-3DDC84?logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-4285F4)
+![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter&logoColor=white)
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-orange)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-blue)
+
+### 🤖 AI Agents & Tools
+![Cursor](https://img.shields.io/badge/Cursor-AI_IDE-black)
+![Windsurf](https://img.shields.io/badge/Windsurf-AI_Agents-purple)
+![Co-pilot](https://img.shields.io/badge/copilot-yellow)
+![Gemini](https://img.shields.io/badge/Gemini-green)
 
 ---
 
